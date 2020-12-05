@@ -6,7 +6,7 @@
     <head>
         <meta charset='utf-8'>
         <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-        <title>Hike the Salary</title>
+        <title>Shoot Up salary</title>
         <meta name='viewport' content='width=device-width, initial-scale=1'>
         <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
         <meta name="description" content="Practice SQL injection by changing the salary of employees">
@@ -15,7 +15,7 @@
 
     </head>
     <body>
-        <div class="heading text-center word-spacing">Hike The Salary .</div>
+        <div class="heading text-center word-spacing">ShootUP Salary .</div>
         <p class="text-center font-large">The below listed software developers want to change the company they work in.<br>
             Can you recommend them some awesome companies ?</p>
         
@@ -73,7 +73,7 @@
         
 
         <footer class="text-center font-large word-spacing">
-            ⚡ Jayant Katia 
+            ⚡
         </footer>
     </body>
 </html>

@@ -1,8 +1,8 @@
 <?php
-$dbHost     = "";
-$dbUsername = "";
+$dbHost     = "localhost";
+$dbUsername = "root";
 $dbPassword = "";
-$dbName     = "";
+$dbName     = "employees";
 
 $dbConnection=mysqli_connect($dbHost,$dbUsername,$dbPassword,$dbName);
 if(mysqli_connect_error($dbConnection)){
